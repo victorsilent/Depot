@@ -2,4 +2,8 @@
 
 Learning rails with Agile Development  with rails 4.
 This repository I'll put my commits to deploy these application on Heroku :)
+<<<<<<< HEAD
 If you find anything wrong, tell me please :p
+=======
+If you find anything wrong, tell me please :p
+>>>>>>> ba56d4dcaa593f939a8c733680ac4bafe5e38280
