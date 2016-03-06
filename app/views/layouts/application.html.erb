@@ -8,6 +8,10 @@
 </head>
 <body class='<%= controller.controller_name%>'>
 
+<div id="side">
+	<li><%= link_to 'Home', controller: 'store', action: 'index' %></li>
+	<li><%= link_to "Produtos", controller: "products", action: 'index' %></li>
+</div>
 <%= yield %>
 
 </body>
